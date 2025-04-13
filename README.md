@@ -60,7 +60,7 @@ Electrical Characterization is performed once the complete fabrication process i
 ![flow](https://drive.google.com/file/d/1zFJW-8rvyASnEGeb7nsda2WqDwh_gbHr/view?usp=sharing)
 ## Report
 
-[Final Report](https://drive.google.com/file/d/1SL1GERQPwuSdiMzho0GpxX1U8hZrAl9D/view?usp=sharing)
+[Final Report](Report.pdf)
 
 
 ## Acknowledgements
