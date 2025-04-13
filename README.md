@@ -6,11 +6,11 @@ In the project, fabrication of MoS2 based gas sensor is performed over a Si wafe
 
 ## Authors
 
-- [Amit Ranjan Sahu](www.linkedin.com/in/amitranjansa)
+- [Amit Ranjan Sahu](https://www.linkedin.com/in/amitranjansa)
 - [Aviraj Dewangan](https://www.linkedin.com/in/aviraj-dewangan-361bb71aa/)
-- [Sujith Petlozu](linkedin.com/in/sujith-petlozu-2ab845171)
-- [Gautham HS](linkedin.com/in/gowtham-srinivas30)
-- [Dibyajit Swain](linkedin.com/in/dibyajit-swain-9278b5228)
+- [Sujith Petlozu](https://www.linkedin.com/in/sujith-petlozu-2ab845171)
+- [Gautham HS](https://www.linkedin.com/in/gowtham-srinivas30)
+- [Dibyajit Swain](https://www.linkedin.com/in/dibyajit-swain-9278b5228)
 
 
 ## Fabrication
