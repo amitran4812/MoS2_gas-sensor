@@ -1,7 +1,7 @@
 
-# MoS2 Photodiode
+# MoS2 Gas Sensor
 
-In the project, fabrication of MoS2 based gas sensor is performed over a Si wafer and various characterization process are performed over the substarte.
+In the project, fabrication of MoS2 based gas sensor is performed over a Si wafer and various characterization process are performed over the substrate.
 
 
 ## Authors
