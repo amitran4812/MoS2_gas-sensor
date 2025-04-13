@@ -8,7 +8,7 @@ In the project, fabrication of MoS2 based gas sensor is performed over a Si wafe
 
 - [Amit Ranjan Sahu](www.linkedin.com/in/amitranjansa)
 - [Aviraj Dewangan](https://www.linkedin.com/in/aviraj-dewangan-361bb71aa/)
-- [Sujith ](linkedin.com/in/sujith-petlozu-2ab845171)
+- [Sujith Petlozu](linkedin.com/in/sujith-petlozu-2ab845171)
 - [Gautham HS](linkedin.com/in/gowtham-srinivas30)
 - [Dibyajit Swain](linkedin.com/in/dibyajit-swain-9278b5228)
 
@@ -57,7 +57,7 @@ Electrical Characterization | Gas Sensor(SAI India) |
 
 Electrical Characterization is performed once the complete fabrication process is completed using the gas sensor probe station to get IvsV properties of the wafer. Since it is a gas sensing device, Electrical Characterization is performed in presence of gas and in vacuum(to get base line) to get the response and recovery  time of device. Apart from this, current vs Time is also plotted with the help of Probe Station.
 ## Flow Chart
-![flow](https://drive.google.com/file/d/1zFJW-8rvyASnEGeb7nsda2WqDwh_gbHr/view?usp=sharing)
+[flow](Images/Flowchart.png)
 ## Report
 
 [Final Report](Report.pdf)
